@@ -18,6 +18,7 @@ $ pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 $ pip install torch==1.4.0+cpu torchvision==0.5.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
 $ pip install opencv-python==3.4.4.19 opencv-contrib-python==3.4.4.19
 $ pip install jupyter matplotlib 
+$ pip install h5py
 ```
 如果pytorch安装缓慢建议改为国内源安装：
 ``` cmd
